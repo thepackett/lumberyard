@@ -59,3 +59,8 @@ To learn more, please see our FAQs https://aws.amazon.com/lumberyard/faq/#licens
 ## Setup Options
 
 To set up this fork, do the following:
+-	Run the ```git_bootstrap.exe``` found at the root of the repository.
+-	Once the ```git_bootstrap.exe``` finished running, the Lumberyard Setup Assistant should automatically launch. Select "Custom Install".
+-	In "Getting Started" select all options except for the Android and Linux Server options.
+-	In the "Visual Studio Version" section, select only VS 2015.
+-	Install all required SDKs, leave everything else as is.
