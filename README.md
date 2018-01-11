@@ -56,4 +56,6 @@ For complete copyright and license terms please see the LICENSE.txt file at the 
 -	It's fine to connect to third-party platform services like Steamworks, Apple GameCenter, console platform services, etc.  
 To learn more, please see our FAQs https://aws.amazon.com/lumberyard/faq/#licensing. 
 
+## Setup Options
 
+To set up this fork, do the following:
