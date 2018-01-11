@@ -1,0 +1,18 @@
+{
+    "none": {
+        "Source": [
+            "Source/Test_Project_Default_precompiled.cpp",
+            "Source/Test_Project_Default_precompiled.h"
+        ]
+    },
+    "auto": {
+        "Include": [
+            "Include/Test_Project_Default/Test_Project_DefaultBus.h"
+        ],
+        "Source": [
+            "Source/Test_Project_DefaultModule.cpp",
+            "Source/Test_Project_DefaultSystemComponent.cpp",
+            "Source/Test_Project_DefaultSystemComponent.h"
+        ]
+    }
+}
