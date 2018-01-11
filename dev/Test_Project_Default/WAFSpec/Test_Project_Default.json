@@ -1,0 +1,9 @@
+{
+    "description": "Configuration for Test_Project_Default",
+    "visual_studio_name": "Test_Project_Default",
+    "comment" : "",
+    "game_projects" : "Test_Project_Default",
+
+    "modules" : [
+    ]
+}
