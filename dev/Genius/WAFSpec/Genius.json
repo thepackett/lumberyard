@@ -1,9 +1,0 @@
-{
-    "description": "Configuration for Genius",
-    "visual_studio_name": "Genius",
-    "comment" : "",
-    "game_projects" : "Genius",
-
-    "modules" : [
-    ]
-}
