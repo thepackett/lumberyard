@@ -1,0 +1,18 @@
+{
+    "none": {
+        "Source": [
+            "Source/Genius_precompiled.cpp",
+            "Source/Genius_precompiled.h"
+        ]
+    },
+    "auto": {
+        "Include": [
+            "Include/Genius/GeniusBus.h"
+        ],
+        "Source": [
+            "Source/GeniusModule.cpp",
+            "Source/GeniusSystemComponent.cpp",
+            "Source/GeniusSystemComponent.h"
+        ]
+    }
+}
